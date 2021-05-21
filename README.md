@@ -45,7 +45,6 @@
 --
 - [`XUnity.AutoTranslator-BepIn-5x-4.16.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Better_English_Machine_Translation_ᴠ5.0`](https://www.patreon.com/posts/45341283)
-- [`Koikatu Story Translation_ᴠ5.0`](https://github.com/IllusionMods/KoikatsuStoryTranslation/releases/tag/v4)
 - [`Koikatu English_Launcher_ᴠ3.1.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`Koikatu Translation_Helper_v1.1`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r14)
 
