@@ -46,7 +46,7 @@
 - [`XUnity.AutoTranslator-BepIn-5x-4.16.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Better_English_Machine_Translation_ᴠ5.0`](https://www.patreon.com/posts/45341283)
 - [`Koikatu English_Launcher_ᴠ3.1.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
-- [`Koikatu Translation_Helper_v1.1`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r14)
+- [`Koikatu Translation_Helper_v1.1.0.1`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r14)
 
 ---
 **[Mod Archive]**
@@ -101,7 +101,7 @@
 - [`Koikatu Feet_Control + Texture_Patch_ᴠ1.20`](https://github.com/mango123321a/KK_toesControl-solesTexture)
 - [`Koikatu Clothing_State_Menu_ᴠ3.0.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
 - [`Koikatu Pregnancy_Mod_ᴠ2.5`](https://www.patreon.com/posts/40713494)
-- [`Koikatu Pregnancy_Plus_ᴠ3.8`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Pregnancy_Plus_ᴠ3.9`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Quick_Access_Box_ᴠ2.3`](https://www.patreon.com/posts/38060886)
 - [`Koikatu Browser_Folders_ᴠ2.5.1`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Graphics_Settings_ᴠ1.2.1`](https://builds.bepis.io/projects/bepinex_graphics_settings)
@@ -116,7 +116,7 @@
 - [`Koikatu Image_Series_Recoder_ᴠ1.0`](https://www.patreon.com/posts/22927657)
 - [`Koikatu Video_Export_ᴠ1.2.1`](https://www.patreon.com/posts/40762879)
 - [`Koikatu Character_Replacer_ᴠ1.6.2`](https://github.com/IllusionMods/CharacterReplacer/releases)
-- [`Koikatu VN_Game_Engine_ᴠ26.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu VN_Game_Engine_ᴠ27.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Studio_Scene_Settings_ᴠ1.3`](https://www.patreon.com/posts/43797497)
 - [`Koikatu Colthing_Uncloker_ᴠ2.0.1`](https://www.patreon.com/posts/38000702)
 - [`Koikatu H_Light_Control_ᴠ1.2.4`](https://github.com/Mantas-2155X/HLightControl/releases)
