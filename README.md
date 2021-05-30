@@ -125,7 +125,7 @@
 - [`Koikatu Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`Koikatu H_Scene_Options_ᴠ3.2.1`](https://github.com/MayouKurayami/KK_HSceneOptions#configurations)
 - [`Koikatu Adv_IK_Plugin_ᴠ1.5.5`](https://github.com/OrangeSpork/AdvIKPlugin/releases/)
-- [`Koikatu AccStateSync_v3.5.3.0`](https://github.com/Madevil/KK_AccStateSync/releases)
+- [`Koikatu AccStateSync_v4.0.1.0`](https://github.com/Madevil/KK_AccStateSync/releases)
 - [`Koikatu Accessory_Clothes_ᴠ1.0`](https://www.patreon.com/posts/43222792)
 - [`Koikatu Accessory_Quick_Remove_v1.0`](https://www.patreon.com/posts/46832511)
 - [`Koikatu Realistic_Nose_v1.0`](https://www.patreon.com/posts/realistic-nose-1-46938702)
