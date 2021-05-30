@@ -141,4 +141,4 @@
 - [`Koikatu Studio_Better_Penetration_v1.1.0`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Animation_Overdrive_v1.1`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
-- [`Koikatu List_Override_v1.0`](https://github.com/IllusionMods/DragAndDrop)
+- [`Koikatu List_Override_v1.0`](https://github.com/DeathWeasel1337/KK_Plugins)
