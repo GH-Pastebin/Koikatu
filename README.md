@@ -85,7 +85,7 @@
 - [`Koikatu KPlug_ᴠ2.6`](https://www.patreon.com/Katarsys)
 - [`Koikatu Hair_Accessory_Customizer_ᴠ1.1.5`](https://www.patreon.com/posts/37997119)
 - [`Koikatu POVX_ᴠ1.2.0`](https://github.com/FairBear/KK_PovX/releases)
-- [`Koikatu Keel_Plugins_ᴠ233`](https://github.com/Keelhauled/KeelPlugins#readme)
+- [`Koikatu Keel_Plugins_ᴠ267`](https://github.com/Keelhauled/KeelPlugins#readme)
 - [`Koikatu GeBoPlugins_r23`](https://github.com/GeBo1/GeBoPlugins)
 - [`Koikatu KoiCatalog_ᴠ1.1.2`](https://github.com/im-mi/KoiCatalog)
 - [`Koikatu ShortCutsKoi_ᴠ1.9`](https://ux.getuploader.com/moistened_eye/download/102)
@@ -139,3 +139,5 @@
 - [`Koikatu Timeline_ᴠ1.1.0`](https://www.patreon.com/posts/37188531)
 - [`Koikatu Better_Penetration_v3.2.1`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Studio_Better_Penetration_v1.1.0`](https://github.com/Animal42069/BetterPenetration)
+- [`Koikatu Animation_Overdrive_v1.1`](https://github.com/DeathWeasel1337/KK_Plugins)
+
