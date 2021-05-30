@@ -63,7 +63,7 @@
 - [`BepInEx.IPALoaderX_ᴠ1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`Koikatu Manager_ᴠ0.16.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`Koikatu API_ᴠ1.19`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`Koikatu API_ᴠ1.20`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`Koikatu Illusion_Fixes_ᴠ15.2.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.1`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Material_Editor_ᴠ3.1.1`](https://www.patreon.com/posts/materialeditor-1-51454810)
