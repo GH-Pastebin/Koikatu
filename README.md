@@ -101,7 +101,7 @@
 - [`Koikatu Feet_Control + Texture_Patch_ᴠ1.20`](https://github.com/mango123321a/KK_toesControl-solesTexture)
 - [`Koikatu Clothing_State_Menu_ᴠ3.0.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
 - [`Koikatu Pregnancy_Mod_ᴠ2.5`](https://www.patreon.com/posts/40713494)
-- [`Koikatu Pregnancy_Plus_ᴠ3.13`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Pregnancy_Plus_ᴠ3.16`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Quick_Access_Box_ᴠ2.4.1`](https://www.patreon.com/posts/38060886)
 - [`Koikatu Browser_Folders_ᴠ2.5.1`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Graphics_Settings_ᴠ1.2.1`](https://builds.bepis.io/projects/bepinex_graphics_settings)
