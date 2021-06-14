@@ -137,7 +137,7 @@
 - [`Koikatu Slider_Highlight_v2.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Skin_Ass_Effects_v1.0`](https://mega.nz/folder/g6hCyDCa#w250IZhZGfWr-cD4iRf_ew)
 - [`Koikatu Timeline_ᴠ1.1.0`](https://www.patreon.com/posts/37188531)
-- [`Koikatu Better_Penetration_v4.0.2`](https://github.com/Animal42069/BetterPenetration)
+- [`Koikatu Better_Penetration_v4.0.3`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Studio_Better_Penetration_v2.0.2`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Animation_Overdrive_v1.1`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
