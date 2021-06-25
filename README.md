@@ -68,7 +68,7 @@
 - [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Material_Editor_ᴠ3.1.1`](https://www.patreon.com/posts/materialeditor-1-51454810)
 - [`Koikatu ABMX_ᴠ4.4.2.0`](https://github.com/ManlyMarco/ABMX/releases)
-- [`Koikatu Animation_Loader_v1.0.7`](https://github.com/IllusionMods/AnimationLoader)
+- [`Koikatu Animation_Loader_v1.0.8`](https://github.com/IllusionMods/AnimationLoader)
 - [`Runtime_Unity_Editor_BepInEx5_v2.4`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/tag/v2.4)
 
 ---
