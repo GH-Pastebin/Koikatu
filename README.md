@@ -32,7 +32,7 @@
 ---
 **[Female & Male Uncensor]**
 --
-- [`Koikatu Uncensor_Selector_ᴠ3.11.2`](https://www.patreon.com/posts/uncensorselector-50596398)
+- [`Koikatu Uncensor_Selector_ᴠ3.11.2`](https://www.patreon.com/posts/53085409)
 - [`Koikatu Uncensor_Selector_Package_ᴠ0.7`](http://www.mediafire.com/file/t9i40hsxa52sw0k/Koikatu_Female_SAC_Uncensor_Selector_Package_v0.7.zip/file) 
 
 ---
