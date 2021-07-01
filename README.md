@@ -43,7 +43,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.16.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.16.3`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Better_English_Machine_Translation_ᴠ5.0`](https://www.patreon.com/posts/45341283)
 - [`Koikatu English_Launcher_ᴠ3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`Koikatu Translation_Helper_v1.1.0.8`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r27)
@@ -63,8 +63,8 @@
 - [`BepInEx.IPALoaderX_ᴠ1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`Koikatu Manager_ᴠ0.17.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`Koikatu API_ᴠ1.20.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
-- [`Koikatu Illusion_Fixes_ᴠ15.3`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu API_ᴠ1.20.3`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`Koikatu Illusion_Fixes_ᴠ15.3.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Material_Editor_ᴠ3.1.1`](https://www.patreon.com/posts/materialeditor-1-51454810)
 - [`Koikatu ABMX_ᴠ4.4.2.0`](https://github.com/ManlyMarco/ABMX/releases)
