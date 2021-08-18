@@ -135,7 +135,7 @@
 - [`Koikatu Realistic_Nose_v1.0`](https://www.patreon.com/posts/realistic-nose-1-46938702)
 - [`Koikatu Sabakan_Plugins_v0607`](https://cdn.discordapp.com/attachments/447115303449657354/851413818337001483/Sabakan_Plugins_0607.zip)
 - [`Koikatu Dynamic_Bone_Editor_v1.0.3`](https://github.com/IllusionMods/KK_Plugins)
-- [`Koikatu Lewd_CrestX_v1.2`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
+- [`Koikatu Lewd_CrestX_v1.2.1`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
 - [`Koikatu Mod_Bone_Implantor_v1.1.0.0`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`Koikatu ADV_Editor_v1.1`](https://github.com/ManlyMarco/ADV_Editor/releases/tag/v1.1)
 - [`Koikatu Slider_Highlight_v2.1`](https://www.patreon.com/posts/44119450)
