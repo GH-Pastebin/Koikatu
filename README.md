@@ -120,7 +120,7 @@
 - [`Koikatu Image_Series_Recoder_ᴠ1.0`](https://www.patreon.com/posts/22927657)
 - [`Koikatu Video_Export_ᴠ1.2.1`](https://www.patreon.com/posts/40762879)
 - [`Koikatu Character_Replacer_ᴠ1.6.2`](https://github.com/IllusionMods/CharacterReplacer/releases)
-- [`Koikatu VN_Game_Engine_ᴠ29.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu VN_Game_Engine_ᴠ30.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Studio_Scene_Settings_ᴠ1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Colthing_Uncloker_ᴠ2.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu H_Light_Control_ᴠ1.2.4`](https://github.com/Mantas-2155X/HLightControl/releases)
