@@ -75,6 +75,7 @@
 - [`Koikatu ABMX_ᴠ4.4.3`](https://github.com/ManlyMarco/ABMX/releases)
 - [`Koikatu Animation_Loader_v1.0.8`](https://github.com/IllusionMods/AnimationLoader)
 - [`Runtime_Unity_Editor_BepInEx5_v2.4`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/tag/v2.4)
+- [`Koikatu Better_Penetration_v4.3.0`](https://github.com/Animal42069/BetterPenetration)
 
 ---
 **[Utility Plugins]**
@@ -141,7 +142,6 @@
 - [`Koikatu Slider_Highlight_v2.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Skin_Ass_Effects_v1.0`](https://mega.nz/folder/g6hCyDCa#w250IZhZGfWr-cD4iRf_ew)
 - [`Koikatu Timeline_ᴠ1.1.0`](https://www.patreon.com/posts/37188531)
-- [`Koikatu Better_Penetration_v4.3.0`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Studio_Better_Penetration_v2.2.1`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Animation_Overdrive_v1.1`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
