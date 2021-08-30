@@ -74,8 +74,8 @@
 - [`Koikatu Material_Editor_ᴠ3.1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu ABMX_ᴠ4.4.3`](https://github.com/ManlyMarco/ABMX/releases)
 - [`Koikatu Animation_Loader_v1.0.8`](https://github.com/IllusionMods/AnimationLoader)
-- [`Runtime_Unity_Editor_BepInEx5_v2.4`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/tag/v2.4)
 - [`Koikatu Better_Penetration_v4.3.0`](https://github.com/Animal42069/BetterPenetration)
+- [`Runtime_Unity_Editor_BepInEx5_v2.4`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/tag/v2.4)
 
 ---
 **[Utility Plugins]**
