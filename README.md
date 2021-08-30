@@ -150,3 +150,4 @@
 - [`Koikatu Butt_Plugin_v2.0.2`](https://github.com/Sauceke/KK_ButtPlugin)
 - [`Koikatu Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`Koikatu Lighting_Tweaks_v1.0`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
