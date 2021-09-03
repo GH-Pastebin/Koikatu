@@ -140,7 +140,7 @@
 - [`Koikatu Lewd_CrestX_v1.2.1`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
 - [`Koikatu Mod_Bone_Implantor_v1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`Koikatu ADV_Editor_v1.1`](https://github.com/ManlyMarco/ADV_Editor/releases/tag/v1.1)
-- [`Koikatu Slider_Highlight_v2.1`](https://www.patreon.com/posts/44119450)
+- [`Koikatu Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Skin_Ass_Effects_v1.0`](https://mega.nz/folder/g6hCyDCa#w250IZhZGfWr-cD4iRf_ew)
 - [`Koikatu Timeline_ᴠ1.1.0`](https://www.patreon.com/posts/37188531)
 - [`Koikatu Studio_Better_Penetration_v2.2.1`](https://github.com/Animal42069/BetterPenetration)
@@ -151,3 +151,4 @@
 - [`Koikatu Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`Koikatu Lighting_Tweaks_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
+- [`Koikatu Real_POV_v1.3`](https://cdn.discordapp.com/attachments/447115303449657354/883049011802701824/RealPOV.Koikatu_v1.3.zip)
