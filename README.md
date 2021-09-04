@@ -152,3 +152,4 @@
 - [`Koikatu Lighting_Tweaks_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`Koikatu Real_POV_v1.3`](https://cdn.discordapp.com/attachments/447115303449657354/883049011802701824/RealPOV.Koikatu_v1.3.zip)
+- [`Koikatu Move_Controller_v1.7.1.1`](https://github.com/Mantas-2155X/MikkePlugins)
