@@ -34,7 +34,7 @@
 - [`Illusion`](http://www.illusion.jp/preview/koikatu/index.php)
 - [`Booru`](https://kenzato.uk/booru/)
 - [`Plugins-Compendium`](https://github.com/Frostation/KK-Plugins-Compendium)
-- [`Modding Texture Guide`](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/1.%20Edit%20texture%20and%20make%20a%20texture%20mod.md)
+- [`Texture Modding`](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/1.%20Edit%20texture%20and%20make%20a%20texture%20mod.md)
 
 ---
 **[Female & Male Uncensor]**
