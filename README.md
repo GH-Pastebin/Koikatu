@@ -66,7 +66,7 @@
 - [`BepInEx_ᴠ5.4.15`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r16.7`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`BepInEx.Plugins_r16.7.1`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`BepInEx.IPALoaderX_ᴠ1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
@@ -82,7 +82,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu More_Accessories_ᴠ2.0.1`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.1)
+- [`Koikatu More_Accessories_ᴠ2.0.3`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.3)
 - [`Koikatu KKPE_ᴠ2.12.0`](https://www.patreon.com/posts/38673900)
 - [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
@@ -117,7 +117,7 @@
 - [`Koikatu Expand_Male_Maker_ᴠ1.1`](https://github.com/Kokaiinum/KK_ExpandMaleMaker/releases)
 - [`Koikatu FPS_Counter_ᴠ3.1`](https://github.com/ManlyMarco/FPSCounter/releases)
 - [`Koikatu Studio_Mod_Plugins`](https://blog.maki0419.com/2020/05/personal-koikatu-plugin.html)
-- [`Koikatu Hide_All_UI_ᴠ2.2`](https://github.com/IllusionMods/HideAllUI/releases)
+- [`Koikatu Hide_All_UI_ᴠ2.3`](https://github.com/IllusionMods/HideAllUI/releases)
 - [`Koikatu Height_Bar_ᴠ3.3`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Cheat_Tools_ᴠ3.0`](https://www.patreon.com/posts/37889909)
 - [`Koikatu Image_Series_Recoder_ᴠ1.0`](https://www.patreon.com/posts/22927657)
@@ -146,7 +146,7 @@
 - [`Koikatu Timeline_ᴠ1.1.0`](https://www.patreon.com/posts/37188531)
 - [`Koikatu Studio_Better_Penetration_v2.2.1`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Animation_Overdrive_v1.1`](https://github.com/DeathWeasel1337/KK_Plugins)
-- [`Koikatu DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
+- [`Koikatu Drag_And_Drop_v1.2.4`](https://github.com/IllusionMods/DragAndDrop)
 - [`Koikatu List_Override_v1.0`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu Butt_Plugin_v2.0.2`](https://github.com/Sauceke/KK_ButtPlugin)
 - [`Koikatu Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
@@ -155,3 +155,6 @@
 - [`Koikatu Real_POV_v1.3`](https://cdn.discordapp.com/attachments/447115303449657354/883049011802701824/RealPOV.Koikatu_v1.3.zip)
 - [`Koikatu Move_Controller_v1.7.1.1`](https://github.com/Mantas-2155X/MikkePlugins)
 - [`Koikatu More_Outfits_v1.0`](https://github.com/IllusionMods/KK_Plugins/releases/tag/v203)
+- [`Koikatu Better_Color_Picker_v2.0.2`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
+- [`Koikatu Accessory_States_v1.6`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.3)
+- [`Koikatu Maker_Tools_v1.7`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.3)
