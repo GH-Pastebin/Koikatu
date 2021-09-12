@@ -156,5 +156,5 @@
 - [`Koikatu Move_Controller_v1.7.1.1`](https://github.com/Mantas-2155X/MikkePlugins)
 - [`Koikatu More_Outfits_v1.0`](https://github.com/IllusionMods/KK_Plugins/releases/tag/v203)
 - [`Koikatu Better_Color_Picker_v2.0.2`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
-- [`Koikatu Accessory_States_v1.6`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.3)
-- [`Koikatu Maker_Tools_v1.7`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.3)
+- [`Koikatu Accessory_States_v1.6`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
+- [`Koikatu Maker_Tools_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
