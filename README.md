@@ -117,7 +117,7 @@
 - [`Koikatu Expand_Male_Maker_ᴠ1.1`](https://github.com/Kokaiinum/KK_ExpandMaleMaker/releases)
 - [`Koikatu FPS_Counter_ᴠ3.1`](https://github.com/ManlyMarco/FPSCounter/releases)
 - [`Koikatu Studio_Mod_Plugins`](https://blog.maki0419.com/2020/05/personal-koikatu-plugin.html)
-- [`Koikatu Hide_All_UI_ᴠ2.3`](https://github.com/IllusionMods/HideAllUI/releases)
+- [`Koikatu Hide_All_UI_ᴠ2.3.1`](https://github.com/IllusionMods/HideAllUI/releases)
 - [`Koikatu Height_Bar_ᴠ3.3`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Cheat_Tools_ᴠ3.0`](https://www.patreon.com/posts/37889909)
 - [`Koikatu Image_Series_Recoder_ᴠ1.0`](https://www.patreon.com/posts/22927657)
