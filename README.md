@@ -82,7 +82,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu More_Accessories_ᴠ2.0.3`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.3)
+- [`Koikatu More_Accessories_ᴠ2.0.4`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.4)
 - [`Koikatu KKPE_ᴠ2.12.0`](https://www.patreon.com/posts/38673900)
 - [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
