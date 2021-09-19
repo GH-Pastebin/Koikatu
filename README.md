@@ -72,7 +72,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu API_ᴠ1.25`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
-- [`Koikatu Illusion_Fixes_ᴠ16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Illusion_Fixes_ᴠ17.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Material_Editor_ᴠ3.1.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
@@ -82,7 +82,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu More_Accessories_ᴠ2.0.4`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.4)
+- [`Koikatu More_Accessories_ᴠ2.0.5`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.5)
 - [`Koikatu KKPE_ᴠ2.12.0`](https://www.patreon.com/posts/38673900)
 - [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
