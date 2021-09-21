@@ -77,12 +77,12 @@
 - [`Koikatu Material_Editor_ᴠ3.1.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 - [`Koikatu Animation_Loader_v1.0.8`](https://github.com/IllusionMods/AnimationLoader)
-- [`Koikatu Better_Penetration_v4.3.0`](https://github.com/Animal42069/BetterPenetration)
+- [`Koikatu Better_Penetration_v4.4.0`](https://github.com/Animal42069/BetterPenetration)
 
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu More_Accessories_ᴠ2.0.5`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.5)
+- [`Koikatu More_Accessories_ᴠ2.0.6`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.6)
 - [`Koikatu KKPE_ᴠ2.12.0`](https://www.patreon.com/posts/38673900)
 - [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
