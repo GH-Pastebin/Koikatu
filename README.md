@@ -74,7 +74,7 @@
 - [`Koikatu API_ᴠ1.26`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`Koikatu Illusion_Fixes_ᴠ17.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
-- [`Koikatu Material_Editor_ᴠ3.1.4`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Material_Editor_ᴠ3.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 - [`Koikatu Animation_Loader_v1.0.8`](https://github.com/IllusionMods/AnimationLoader)
 - [`Koikatu Better_Penetration_v4.4.0`](https://github.com/Animal42069/BetterPenetration)
@@ -82,7 +82,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu More_Accessories_ᴠ2.0.6`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.6)
+- [`Koikatu More_Accessories_ᴠ2.0.7`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu KKPE_ᴠ2.12.0`](https://www.patreon.com/posts/38673900)
 - [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
@@ -158,3 +158,6 @@
 - [`Koikatu Better_Color_Picker_v2.0.2`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
 - [`Koikatu Accessory_States_v1.6`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
 - [`Koikatu Maker_Tools_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
+- [`Koikatu Subtitles_v2.3`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Ahegao_v2.0`](https://github.com/IllusionMods/Ahegao/releases/tag/2.0)
+- [`Koikatu TwoLut_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
