@@ -109,7 +109,7 @@
 - [`Koikatu Clothing_State_Menu_ᴠ3.0.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
 - [`Koikatu Pregnancy_Mod_ᴠ2.5.2`](https://www.patreon.com/posts/40713494)
 - [`Koikatu Pregnancy_Plus_ᴠ4.15`](https://github.com/thojmr/KK_PregnancyPlus/releases)
-- [`Koikatu Quick_Access_Box_ᴠ2.4.2`](https://www.patreon.com/posts/38060886)
+- [`Koikatu Quick_Access_Box_ᴠ2.4.3`](https://www.patreon.com/posts/38060886)
 - [`Koikatu Browser_Folders_ᴠ2.6.0`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Graphics_Settings_ᴠ1.2.1`](https://builds.bepis.io/projects/bepinex_graphics_settings)
 - [`Koikatu FK_IK_ᴠ1.1.2`](https://github.com/IllusionMods/KK_Plugins)
@@ -164,4 +164,4 @@
 - [`Koikatu Animation_Controller_v2.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
-- [`Koikatu Quick_Access_Box_v2.4.3`](https://github.com/IllusionMods/KK_Plugins)
+
