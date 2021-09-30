@@ -39,7 +39,7 @@
 ---
 **[Female & Male Uncensor]**
 --
-- [`Koikatu Uncensor_Selector_ᴠ3.11.2`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Uncensor_Selector_ᴠ3.11.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Uncensor_Selector_Package_ᴠ0.7`](http://www.mediafire.com/file/t9i40hsxa52sw0k/Koikatu_Female_SAC_Uncensor_Selector_Package_v0.7.zip/file) 
 
 ---
@@ -74,7 +74,7 @@
 - [`Koikatu API_ᴠ1.26`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`Koikatu Illusion_Fixes_ᴠ18.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
-- [`Koikatu Material_Editor_ᴠ3.1.8`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Material_Editor_ᴠ3.1.9`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 - [`Koikatu Animation_Loader_v1.0.8`](https://github.com/IllusionMods/AnimationLoader)
 - [`Koikatu Better_Penetration_v4.4.0`](https://github.com/Animal42069/BetterPenetration)
@@ -82,7 +82,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu More_Accessories_ᴠ2.0.7`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu More_Accessories_ᴠ2.0.10`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu KKPE_ᴠ2.12.0`](https://www.patreon.com/posts/38673900)
 - [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
@@ -110,7 +110,7 @@
 - [`Koikatu Pregnancy_Mod_ᴠ2.5.2`](https://www.patreon.com/posts/40713494)
 - [`Koikatu Pregnancy_Plus_ᴠ4.15`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Quick_Access_Box_ᴠ2.4.2`](https://www.patreon.com/posts/38060886)
-- [`Koikatu Browser_Folders_ᴠ2.5.2`](https://www.patreon.com/posts/40644638)
+- [`Koikatu Browser_Folders_ᴠ2.6.0`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Graphics_Settings_ᴠ1.2.1`](https://builds.bepis.io/projects/bepinex_graphics_settings)
 - [`Koikatu FK_IK_ᴠ1.1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Pose_Folder_ᴠ1.0`](https://github.com/IllusionMods/KK_Plugins)
@@ -150,16 +150,18 @@
 - [`Koikatu List_Override_v1.0`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu Butt_Plugin_v2.0.2`](https://github.com/Sauceke/KK_ButtPlugin)
 - [`Koikatu Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
-- [`Koikatu Lighting_Tweaks_v1.0`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Lighting_Tweaks_v1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`Koikatu Real_POV_v1.3`](https://cdn.discordapp.com/attachments/447115303449657354/883049011802701824/RealPOV.Koikatu_v1.3.zip)
 - [`Koikatu Move_Controller_v1.7.1.1`](https://github.com/Mantas-2155X/MikkePlugins)
-- [`Koikatu More_Outfits_v1.0.1`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu More_Outfits_v1.0.2`](https://github.com/IllusionMods/KK_Plugins/releases)
 - [`Koikatu Better_Color_Picker_v2.0.2`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
 - [`Koikatu Accessory_States_v1.6`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
 - [`Koikatu Maker_Tools_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
-- [`Koikatu Subtitles_v2.3`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Subtitles_v2.3.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Ahegao_v2.0`](https://github.com/IllusionMods/Ahegao/releases/tag/2.0)
 - [`Koikatu TwoLut_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Animation_Controller_v2.3`](https://github.com/IllusionMods/KK_Plugins)
-- [`Koikatu Studio_Custom_Masking_v1.1`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Quick_Access_Box_v2.4.3`](https://github.com/IllusionMods/KK_Plugins)
