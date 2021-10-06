@@ -87,7 +87,7 @@
 - [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
 - [`Koikatu VMD_Play_ᴠ0.3.4`](https://mega.nz/file/MEoFnQKD#Lg8DFf7s96GwhnvYzkZsyzdIlxnJvN-FCQR3b8gMC-s)
-- [`Koikatu MMDD_ᴠ2.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
+- [`Koikatu MMDD_ᴠ2.2.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu Head_Mod + Face_Fix`](http://www.mediafire.com/file/d1g4r74q9xjcwkc/Koikatu_Head_Mod_%252B_Face_Fix.zip/file)
 - [`Koikatu KKUS_ᴠ1.9.0`](https://www.patreon.com/posts/hs-kk-ai-hs2-1-9-38675642)
 - [`Koikatu Hair_Accessory_Customizer_ᴠ1.1.6`](https://github.com/IllusionMods/KK_Plugins#readme)
@@ -164,4 +164,3 @@
 - [`Koikatu Animation_Controller_v2.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
-
