@@ -75,7 +75,7 @@
 - [`Koikatu Illusion_Fixes_ᴠ18.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Material_Editor_ᴠ3.1.10`](https://github.com/IllusionMods/KK_Plugins)
-- [`Koikatu ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
+- [`Koikatu ABMX_ᴠ4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 - [`Koikatu Animation_Loader_v1.0.8`](https://github.com/IllusionMods/AnimationLoader)
 - [`Koikatu Better_Penetration_v4.4.0`](https://github.com/Animal42069/BetterPenetration)
 
@@ -97,7 +97,7 @@
 - [`Koikatu KoiCatalog_ᴠ1.1.2`](https://github.com/im-mi/KoiCatalog)
 - [`Koikatu ShortCutsKoi_ᴠ1.9`](https://ux.getuploader.com/moistened_eye/download/102)
 - [`Koikatu Expression_Control_ᴠ0.2.3`](https://ux.getuploader.com/56e4_xXVv/download/93)
-- [`Koikatu Skin_Effects_ᴠ2.0`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
+- [`Koikatu Skin_Effects_ᴠ2.0.1`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
 - [`Koikatu Invisible_Body_ᴠ1.4`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu Stilleto_v1.2a3`](http://www.mediafire.com/file/ryrdbaaz1inremd/Koikatu_Stilleto_v1.2a3.rar/file)
 - [`Koikatu EyeTexOverlay_ᴠ0.2.0`](http://www.mediafire.com/file/f9u3vcl8v4dref2/Koikatu_EyeTexOverlay_v0.2.0.rar/file)
