@@ -72,7 +72,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu API_ᴠ1.27`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
-- [`Koikatu Illusion_Fixes_ᴠ18.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Illusion_Fixes_ᴠ18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Material_Editor_ᴠ3.1.10`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu ABMX_ᴠ4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
@@ -82,7 +82,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu More_Accessories_ᴠ2.0.10`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu More_Accessories_ᴠ2.0.11`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu KKPE_ᴠ2.12.0`](https://www.patreon.com/posts/38673900)
 - [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
@@ -104,12 +104,12 @@
 - [`Koikatu TexResPatch`](http://www.mediafire.com/file/dkeus9sywipoiag/Koikatu_TexResPatch.rar/file)
 - [`Koikatu Push_Up_ᴠ1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Specter_ᴠ0.13`](https://ux.getuploader.com/moistened_eye/download/131)
-- [`Koikatu More_Accessory_Parents_ᴠ1.2`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu More_Accessory_Parents_ᴠ2.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Feet_Control + Texture_Patch_ᴠ1.20`](https://github.com/mango123321a/KK_toesControl-solesTexture)
 - [`Koikatu Clothing_State_Menu_ᴠ3.0.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
 - [`Koikatu Pregnancy_Mod_ᴠ2.5.2`](https://www.patreon.com/posts/40713494)
 - [`Koikatu Pregnancy_Plus_ᴠ4.15`](https://github.com/thojmr/KK_PregnancyPlus/releases)
-- [`Koikatu Quick_Access_Box_ᴠ2.4.3`](https://www.patreon.com/posts/38060886)
+- [`Koikatu Quick_Access_Box_ᴠ2.4.4`](https://www.patreon.com/posts/38060886)
 - [`Koikatu Browser_Folders_ᴠ2.6.0`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Graphics_Settings_ᴠ1.2.1`](https://builds.bepis.io/projects/bepinex_graphics_settings)
 - [`Koikatu FK_IK_ᴠ1.1.2`](https://github.com/IllusionMods/KK_Plugins)
