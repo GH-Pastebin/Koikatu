@@ -82,7 +82,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu More_Accessories_ᴠ2.0.13`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu More_Accessories_ᴠ2.0.15`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu KKPE_ᴠ2.12.0`](https://www.patreon.com/posts/38673900)
 - [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
@@ -108,9 +108,9 @@
 - [`Koikatu Feet_Control + Texture_Patch_ᴠ1.20`](https://github.com/mango123321a/KK_toesControl-solesTexture)
 - [`Koikatu Clothing_State_Menu_ᴠ3.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
 - [`Koikatu Pregnancy_Mod_ᴠ2.5.2`](https://www.patreon.com/posts/40713494)
-- [`Koikatu Pregnancy_Plus_ᴠ4.15`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Pregnancy_Plus_ᴠ5.2`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Quick_Access_Box_ᴠ2.4.4`](https://www.patreon.com/posts/38060886)
-- [`Koikatu Browser_Folders_ᴠ2.6.0`](https://www.patreon.com/posts/40644638)
+- [`Koikatu Browser_Folders_ᴠ2.6.1`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Graphics_Settings_ᴠ1.2.1`](https://builds.bepis.io/projects/bepinex_graphics_settings)
 - [`Koikatu FK_IK_ᴠ1.1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Pose_Folder_ᴠ1.0`](https://github.com/IllusionMods/KK_Plugins)
@@ -118,7 +118,7 @@
 - [`Koikatu FPS_Counter_ᴠ3.1`](https://github.com/ManlyMarco/FPSCounter/releases)
 - [`Koikatu Studio_Mod_Plugins`](https://blog.maki0419.com/2020/05/personal-koikatu-plugin.html)
 - [`Koikatu Hide_All_UI_ᴠ2.3.2`](https://github.com/IllusionMods/HideAllUI/releases)
-- [`Koikatu Height_Bar_ᴠ3.3`](https://www.patreon.com/posts/35859949)
+- [`Koikatu Height_Bar_ᴠ3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Cheat_Tools_ᴠ3.0`](https://www.patreon.com/posts/37889909)
 - [`Koikatu Image_Series_Recoder_ᴠ1.0`](https://www.patreon.com/posts/22927657)
 - [`Koikatu Video_Export_ᴠ1.2.1`](https://www.patreon.com/posts/40762879)
@@ -136,7 +136,7 @@
 - [`Koikatu Accessory_Clothes_ᴠ1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Realistic_Nose_v1.0`](https://www.patreon.com/posts/realistic-nose-1-46938702)
-- [`Koikatu Sabakan_Plugins_v0607`](https://cdn.discordapp.com/attachments/447115303449657354/851413818337001483/Sabakan_Plugins_0607.zip)
+- [`Koikatu Sabakan_Plugins_v1023`](https://cdn.discordapp.com/attachments/447115303449657354/901367601563832360/Sabakan_Plugins_1023.zip)
 - [`Koikatu Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Lewd_CrestX_v1.2.1`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
 - [`Koikatu Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
