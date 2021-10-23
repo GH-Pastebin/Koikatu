@@ -106,7 +106,7 @@
 - [`Koikatu Specter_ᴠ0.13`](https://ux.getuploader.com/moistened_eye/download/131)
 - [`Koikatu More_Accessory_Parents_ᴠ2.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Feet_Control + Texture_Patch_ᴠ1.20`](https://github.com/mango123321a/KK_toesControl-solesTexture)
-- [`Koikatu Clothing_State_Menu_ᴠ3.0.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
+- [`Koikatu Clothing_State_Menu_ᴠ3.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
 - [`Koikatu Pregnancy_Mod_ᴠ2.5.2`](https://www.patreon.com/posts/40713494)
 - [`Koikatu Pregnancy_Plus_ᴠ4.15`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Quick_Access_Box_ᴠ2.4.4`](https://www.patreon.com/posts/38060886)
