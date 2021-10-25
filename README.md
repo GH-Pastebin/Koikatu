@@ -136,7 +136,7 @@
 - [`Koikatu Accessory_Clothes_ᴠ1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Realistic_Nose_v1.0`](https://www.patreon.com/posts/realistic-nose-1-46938702)
-- [`Koikatu Sabakan_Plugins_v1023`](https://cdn.discordapp.com/attachments/447115303449657354/901367601563832360/Sabakan_Plugins_1023.zip)
+- [`Koikatu Sabakan_Plugins_v1025`](https://cdn.discordapp.com/attachments/447115303449657354/902147551946489886/Sabakan_Plugins_1025.zip)
 - [`Koikatu Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Lewd_CrestX_v1.2.1`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
 - [`Koikatu Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
