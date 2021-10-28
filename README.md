@@ -66,12 +66,12 @@
 - [`BepInEx_ᴠ5.4.17`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r16.8.1`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`BepInEx.Plugins_r16.9`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`BepInEx.IPALoaderX_ᴠ1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`Koikatu API_ᴠ1.27`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`Koikatu API_ᴠ1.28`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`Koikatu Illusion_Fixes_ᴠ18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Material_Editor_ᴠ3.1.10`](https://github.com/IllusionMods/KK_Plugins)
@@ -82,7 +82,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu More_Accessories_ᴠ2.0.17`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu More_Accessories_ᴠ2.0.18`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu KKPE_ᴠ2.12.0`](https://www.patreon.com/posts/38673900)
 - [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
@@ -110,7 +110,7 @@
 - [`Koikatu Pregnancy_Mod_ᴠ2.5.2`](https://www.patreon.com/posts/40713494)
 - [`Koikatu Pregnancy_Plus_ᴠ5.2`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Quick_Access_Box_ᴠ2.4.4`](https://www.patreon.com/posts/38060886)
-- [`Koikatu Browser_Folders_ᴠ2.6.1`](https://www.patreon.com/posts/40644638)
+- [`Koikatu Browser_Folders_ᴠ2.6.2`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Graphics_Settings_ᴠ1.2.1`](https://builds.bepis.io/projects/bepinex_graphics_settings)
 - [`Koikatu FK_IK_ᴠ1.1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Pose_Folder_ᴠ1.0`](https://github.com/IllusionMods/KK_Plugins)
