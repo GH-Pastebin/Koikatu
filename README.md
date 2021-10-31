@@ -82,7 +82,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu More_Accessories_ᴠ2.0.18`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu More_Accessories_ᴠ2.0.19`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu KKPE_ᴠ2.12.0`](https://www.patreon.com/posts/38673900)
 - [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
@@ -123,7 +123,7 @@
 - [`Koikatu Image_Series_Recoder_ᴠ1.0`](https://www.patreon.com/posts/22927657)
 - [`Koikatu Video_Export_ᴠ1.2.1`](https://www.patreon.com/posts/40762879)
 - [`Koikatu Character_Replacer_ᴠ1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
-- [`Koikatu VN_Game_Engine_ᴠ31.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu VN_Game_Engine_ᴠ32.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Studio_Scene_Settings_ᴠ1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Colthing_Uncloker_ᴠ2.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu H_Light_Control_ᴠ1.2.4`](https://github.com/Mantas-2155X/HLightControl/releases)
