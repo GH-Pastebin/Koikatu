@@ -39,7 +39,7 @@
 ---
 **[Female & Male Uncensor]**
 --
-- [`Koikatu Uncensor_Selector_ᴠ3.11.4`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Uncensor_Selector_ᴠ3.11.5`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Uncensor_Selector_Package_ᴠ0.7`](http://www.mediafire.com/file/t9i40hsxa52sw0k/Koikatu_Female_SAC_Uncensor_Selector_Package_v0.7.zip/file) 
 
 ---
@@ -71,7 +71,7 @@
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`Koikatu API_ᴠ1.28.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`Koikatu API_ᴠ1.28.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`Koikatu Illusion_Fixes_ᴠ18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Material_Editor_ᴠ3.1.10`](https://github.com/IllusionMods/KK_Plugins)
