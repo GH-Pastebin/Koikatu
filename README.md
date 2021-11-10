@@ -102,7 +102,7 @@
 - [`Koikatu Stilleto_v1.2a3`](http://www.mediafire.com/file/ryrdbaaz1inremd/Koikatu_Stilleto_v1.2a3.rar/file)
 - [`Koikatu EyeTexOverlay_ᴠ0.2.0`](http://www.mediafire.com/file/f9u3vcl8v4dref2/Koikatu_EyeTexOverlay_v0.2.0.rar/file)
 - [`Koikatu TexResPatch`](http://www.mediafire.com/file/dkeus9sywipoiag/Koikatu_TexResPatch.rar/file)
-- [`Koikatu Push_Up_ᴠ1.3`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Push_Up_ᴠ1.3.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Specter_ᴠ0.13`](https://ux.getuploader.com/moistened_eye/download/131)
 - [`Koikatu More_Accessory_Parents_ᴠ2.0.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Feet_Control + Texture_Patch_ᴠ1.20`](https://github.com/mango123321a/KK_toesControl-solesTexture)
