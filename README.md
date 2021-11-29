@@ -35,7 +35,7 @@
 - [`Booru`](https://kenzato.uk/booru/)
 - [`Plugins-Compendium`](https://github.com/Frostation/KK-Plugins-Compendium)
 - [`Texture Modding`](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/1.%20Edit%20texture%20and%20make%20a%20texture%20mod.md)
-- [`Plugin_Data_Reader`](https://plugindatareader.maki0419.com/)
+- [`Plugin Data Reader`](https://plugindatareader.maki0419.com/)
 
 ---
 **[Female & Male Uncensor]**
