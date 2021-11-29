@@ -146,6 +146,7 @@
 - [`Koikatu Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Skin_Ass_Effects_v1.0`](https://mega.nz/folder/g6hCyDCa#w250IZhZGfWr-cD4iRf_ew)
 - [`Koikatu Timeline_ᴠ1.1.0`](https://www.patreon.com/posts/37188531)
+- [`Koikatu Timeline_VMDSync_v2.0.0`](https://cdn.discordapp.com/attachments/447115303449657354/913928942497460234/KK_TimelineVMDSync.dll)
 - [`Koikatu Studio_Better_Penetration_v2.2.1`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Animation_Overdrive_v1.1`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu Drag_And_Drop_v1.2.5`](https://github.com/IllusionMods/DragAndDrop)
