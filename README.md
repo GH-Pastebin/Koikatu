@@ -35,6 +35,7 @@
 - [`Booru`](https://kenzato.uk/booru/)
 - [`Plugins-Compendium`](https://github.com/Frostation/KK-Plugins-Compendium)
 - [`Texture Modding`](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/1.%20Edit%20texture%20and%20make%20a%20texture%20mod.md)
+- [`Plugin_Data_Reader`](https://plugindatareader.maki0419.com/)
 
 ---
 **[Female & Male Uncensor]**
@@ -66,18 +67,19 @@
 - [`BepInEx_ᴠ5.4.17`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r16.9.1`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`BepInEx.Plugins_r16.9.2`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`BepInEx.IPALoaderX_ᴠ1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu API_ᴠ1.28.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`Koikatu Illusion_Fixes_ᴠ18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.5`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.6`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Material_Editor_ᴠ3.1.10`](https://github.com/IllusionMods/KK_Plugins)
-- [`Koikatu ABMX_ᴠ4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
+- [`Koikatu ABMX_ᴠ4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
 - [`Koikatu Animation_Loader_v1.0.8`](https://github.com/IllusionMods/AnimationLoader)
 - [`Koikatu Better_Penetration_v4.4.0`](https://github.com/Animal42069/BetterPenetration)
+- [`Koikatu Modified_Head_Mod_v2.2`](https://mega.nz/folder/Bl4gEZbQ#_JenLFfcp-jvyPIu9Pjo7A)
 
 ---
 **[Utility Plugins]**
@@ -107,7 +109,7 @@
 - [`Koikatu More_Accessory_Parents_ᴠ2.0.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Feet_Control + Texture_Patch_ᴠ1.20`](https://github.com/mango123321a/KK_toesControl-solesTexture)
 - [`Koikatu Clothing_State_Menu_ᴠ3.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
-- [`Koikatu Pregnancy_Mod_ᴠ2.5.4`](https://www.patreon.com/posts/40713494)
+- [`Koikatu Pregnancy_Mod_ᴠ2.5.5`](https://www.patreon.com/posts/40713494)
 - [`Koikatu Pregnancy_Plus_ᴠ5.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Quick_Access_Box_ᴠ2.4.4`](https://www.patreon.com/posts/38060886)
 - [`Koikatu Browser_Folders_ᴠ2.6.2`](https://www.patreon.com/posts/40644638)
@@ -151,7 +153,7 @@
 - [`Koikatu Butt_Plugin_v2.0.2`](https://github.com/Sauceke/KK_ButtPlugin)
 - [`Koikatu Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`Koikatu Lighting_Tweaks_v1.0.1`](https://github.com/IllusionMods/KK_Plugins)
-- [`Koikatu Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
+- [`Koikatu Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
 - [`Koikatu Real_POV_v1.3`](https://cdn.discordapp.com/attachments/447115303449657354/883049011802701824/RealPOV.Koikatu_v1.3.zip)
 - [`Koikatu Move_Controller_v1.7.1.1`](https://github.com/Mantas-2155X/MikkePlugins)
 - [`Koikatu More_Outfits_v1.1`](https://github.com/IllusionMods/KK_Plugins/releases)
@@ -164,3 +166,5 @@
 - [`Koikatu Animation_Controller_v2.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Moar_Camz_Plugin_v1.0.6`](https://github.com/OrangeSpork/MoarCamz)
+- [`Koikatu Sex_Faces_v1.1.1`](https://github.com/Sauceke/KK_SexFaces)
