@@ -78,7 +78,7 @@
 - [`Koikatu Material_Editor_ᴠ3.1.11`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu ABMX_ᴠ4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
 - [`Koikatu Animation_Loader_v1.0.8`](https://github.com/IllusionMods/AnimationLoader)
-- [`Koikatu Better_Penetration_v4.4.0`](https://github.com/Animal42069/BetterPenetration)
+- [`Koikatu Better_Penetration_v4.5.0`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Modified_Head_Mod_v2.2`](https://mega.nz/folder/Bl4gEZbQ#_JenLFfcp-jvyPIu9Pjo7A)
 
 ---
@@ -121,7 +121,7 @@
 - [`Koikatu Studio_Mod_Plugins`](https://blog.maki0419.com/2020/05/personal-koikatu-plugin.html)
 - [`Koikatu Hide_All_UI_ᴠ2.3.2`](https://github.com/IllusionMods/HideAllUI/releases)
 - [`Koikatu Height_Bar_ᴠ3.4`](https://www.patreon.com/posts/35859949)
-- [`Koikatu Cheat_Tools_ᴠ3.1`](https://www.patreon.com/posts/37889909)
+- [`Koikatu Cheat_Tools_ᴠ3.1.1`](https://www.patreon.com/posts/37889909)
 - [`Koikatu Image_Series_Recoder_ᴠ1.0`](https://www.patreon.com/posts/22927657)
 - [`Koikatu Video_Export_ᴠ1.2.1`](https://www.patreon.com/posts/40762879)
 - [`Koikatu Character_Replacer_ᴠ1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
@@ -149,7 +149,7 @@
 - [`Koikatu Timeline_VMDSync_v2.0.0`](https://cdn.discordapp.com/attachments/447115303449657354/913928942497460234/KK_TimelineVMDSync.dll)
 - [`Koikatu Studio_Better_Penetration_v2.2.1`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Animation_Overdrive_v1.1`](https://github.com/DeathWeasel1337/KK_Plugins)
-- [`Koikatu Drag_And_Drop_v1.2.5`](https://github.com/IllusionMods/DragAndDrop)
+- [`Koikatu Drag_And_Drop_v1.2.7`](https://github.com/IllusionMods/DragAndDrop)
 - [`Koikatu List_Override_v1.0`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu Butt_Plugin_v2.0.2`](https://github.com/Sauceke/KK_ButtPlugin)
 - [`Koikatu Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
