@@ -84,8 +84,8 @@
 --
 - [`Koikatu ABMX_ᴠ4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
 - [`Koikatu Animation_Loader_v1.0.8`](https://github.com/IllusionMods/AnimationLoader)
-- [`Koikatu Adv_IK_Plugin_ᴠ1.6.7`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
-- [`Koikatu AccStateSync_v4.3.1.0`](https://github.com/Madevil/KK_AccStateSync/releases)
+- [`Koikatu Adv_IK_Plugin_ᴠ1.6.8`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
+- [`Koikatu AccStateSync_v4.5.1.2`](https://github.com/Madevil/KK_AccStateSync/releases)
 - [`Koikatu Accessory_Clothes_ᴠ1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu ADV_Editor_v1.1`](https://github.com/ManlyMarco/ADV_Editor/releases/tag/v1.1)
@@ -120,7 +120,7 @@
 --
 - [`Koikatu Expression_Control_ᴠ0.2.3`](https://ux.getuploader.com/56e4_xXVv/download/93)
 - [`Koikatu EyeTexOverlay_ᴠ0.2.0`](http://www.mediafire.com/file/f9u3vcl8v4dref2/Koikatu_EyeTexOverlay_v0.2.0.rar/file)
-- [`Koikatu Expand_Male_Maker_ᴠ1.1`](https://github.com/Kokaiinum/KK_ExpandMaleMaker/releases)
+- [`Koikatu Expand_Male_Maker_ᴠ1.2`](https://github.com/Kokaiinum/KK_ExpandMaleMaker/releases)
 
 [F]
 --
@@ -160,7 +160,7 @@
 
 [L]
 --
-- [`Koikatu Lewd_CrestX_v1.3`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
+- [`Koikatu Lewd_Crest_X_v1.3`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
 - [`Koikatu List_Override_v1.0`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu Lighting_Tweaks_v1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 
@@ -175,13 +175,13 @@
 - [`Koikatu Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`Koikatu Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`Koikatu Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
-- [`Koikatu More_Outfits_v1.1`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu More_Outfits_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Maker_Tools_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
 - [`Koikatu Moar_Camz_Plugin_v1.0.7`](https://github.com/OrangeSpork/MoarCamz)
 
 [N]
 -- 
-[`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
+- [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 
 [O]
 --
@@ -190,7 +190,7 @@
 --
 - [`Koikatu POVX_ᴠ1.2.0`](https://github.com/FairBear/KK_PovX/releases)
 - [`Koikatu Pregnancy_Mod_ᴠ2.5.5`](https://www.patreon.com/posts/40713494)
-- [`Koikatu Pregnancy_Plus_ᴠ5.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Pregnancy_Plus_ᴠ5.5`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Pose_Folder_ᴠ1.0`](https://github.com/IllusionMods/KK_Plugins)
 
 [Q]
@@ -209,12 +209,10 @@
 - [`Koikatu Skin_Effects_ᴠ2.0.1`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
 - [`Koikatu Stilleto_v1.2a3`](http://www.mediafire.com/file/ryrdbaaz1inremd/Koikatu_Stilleto_v1.2a3.rar/file)
 - [`Koikatu Specter_ᴠ0.13`](https://ux.getuploader.com/moistened_eye/download/131)
-- [`Koikatu Studio_Mod_Plugins`](https://blog.maki0419.com/2020/05/personal-koikatu-plugin.html)
 - [`Koikatu Studio_Scene_Settings_ᴠ1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sabakan_Plugins_v1107`](https://cdn.discordapp.com/attachments/447115303449657354/906846019520692224/Sabakan_Plugins_1107.zip)
 - [`Koikatu Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Skin_Ass_Effects_v1.0`](https://mega.nz/folder/g6hCyDCa#w250IZhZGfWr-cD4iRf_ew)
-- [`Koikatu Studio_Better_Penetration_v2.2.1`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Subtitles_v2.3.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
