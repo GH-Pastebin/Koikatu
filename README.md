@@ -98,7 +98,7 @@
 - [`Koikatu Better_Penetration_v4.5.0`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Browser_Folders_ᴠ2.6.2`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Butt_Plugin_v2.0.2`](https://github.com/Sauceke/KK_ButtPlugin)
-- [`Koikatu Better_Color_Picker_v2.0.2`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
+- [`Koikatu Better_Color_Picker_v2.0.3`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
 
 [C]
 --
@@ -120,6 +120,7 @@
 - [`Koikatu Expression_Control_ᴠ0.2.3`](https://ux.getuploader.com/56e4_xXVv/download/93)
 - [`Koikatu EyeTexOverlay_ᴠ0.2.0`](http://www.mediafire.com/file/f9u3vcl8v4dref2/Koikatu_EyeTexOverlay_v0.2.0.rar/file)
 - [`Koikatu Expand_Male_Maker_ᴠ1.2`](https://github.com/Kokaiinum/KK_ExpandMaleMaker/releases)
+- [`Koikatu Eye_Shaking_v1.3`](https://github.com/IllusionMods/KK_Plugins)
 
 [F]
 --
@@ -143,7 +144,7 @@
 
 [I]
 --
-- [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.6`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.7`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Invisible_Body_ᴠ1.4`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu Image_Series_Recoder_ᴠ1.0`](https://www.patreon.com/posts/22927657)
 
@@ -174,7 +175,7 @@
 - [`Koikatu Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`Koikatu Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`Koikatu Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
-- [`Koikatu More_Outfits_v1.1`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu More_Outfits_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Maker_Tools_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
 - [`Koikatu Moar_Camz_Plugin_v1.0.7`](https://github.com/OrangeSpork/MoarCamz)
 
