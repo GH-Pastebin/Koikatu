@@ -160,7 +160,7 @@
 
 [L]
 --
-- [`Koikatu Lewd_Crest_X_v1.3`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
+- [`Koikatu Lewd_Crest_X_v1.3.1`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
 - [`Koikatu List_Override_v1.0`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu Lighting_Tweaks_v1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 
