@@ -232,7 +232,7 @@
 --
 - [`Koikatu VMD_Play_ᴠ0.3.4`](https://mega.nz/file/MEoFnQKD#Lg8DFf7s96GwhnvYzkZsyzdIlxnJvN-FCQR3b8gMC-s)
 - [`Koikatu Video_Export_ᴠ1.2.1`](https://www.patreon.com/posts/40762879)
-- [`Koikatu VN_Game_Engine_ᴠ33.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu VN_Game_Engine_ᴠ34.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 
 [W]
 --
