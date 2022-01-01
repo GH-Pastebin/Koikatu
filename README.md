@@ -169,7 +169,7 @@
 - [`Koikatu Material_Editor_ᴠ3.1.12`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Modified_Head_Mod_v2.2`](https://mega.nz/folder/Bl4gEZbQ#_JenLFfcp-jvyPIu9Pjo7A)
 - [`Koikatu Move_Controller_v1.7.1.1`](https://github.com/Mantas-2155X/MikkePlugins)
-- [`Koikatu More_Accessories_ᴠ2.0.20`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu MMDD_ᴠ2.3.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu More_Accessory_Parents_ᴠ2.0.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
