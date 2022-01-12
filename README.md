@@ -177,7 +177,7 @@
 - [`Koikatu Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
 - [`Koikatu More_Outfits_v1.1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Maker_Tools_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
-- [`Koikatu Moar_Camz_Plugin_v1.0.7`](https://github.com/OrangeSpork/MoarCamz)
+- [`Koikatu Moar_Camz_Plugin_v1.0.8`](https://github.com/OrangeSpork/MoarCamz)
 
 [N]
 -- 
