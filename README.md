@@ -192,6 +192,7 @@
 - [`Koikatu Pregnancy_Mod_ᴠ2.5.5`](https://www.patreon.com/posts/40713494)
 - [`Koikatu Pregnancy_Plus_ᴠ5.5`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Pose_Folder_ᴠ1.0`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Post_Processing_Effects_v3.7`](https://ux.getuploader.com/nHaruka_KK/)
 
 [Q]
 --
@@ -233,7 +234,7 @@
 - [`Koikatu VMD_Play_ᴠ0.3.4`](https://mega.nz/file/MEoFnQKD#Lg8DFf7s96GwhnvYzkZsyzdIlxnJvN-FCQR3b8gMC-s)
 - [`Koikatu Video_Export_ᴠ1.2.1`](https://www.patreon.com/posts/40762879)
 - [`Koikatu VN_Game_Engine_ᴠ34.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
-- [`Koikatu Vanilla_Plus_Shaders_v1.0`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
+- [`Koikatu Vanilla_Plus_Shaders_v1.02`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 
 [W]
 --
