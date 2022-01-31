@@ -153,8 +153,8 @@
 
 [K]
 --
-- [`Koikatu KKPE_ᴠ2.12.0`](https://www.patreon.com/posts/38673900)
-- [`Koikatu KKUS_ᴠ1.9.0`](https://www.patreon.com/posts/hs-kk-ai-hs2-1-9-38675642)
+- [`Koikatu KKPE_ᴠ2.13.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
+- [`Koikatu KKUS_ᴠ1.11`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Keel_Plugins_ᴠ268`](https://github.com/Keelhauled/KeelPlugins#readme)
 - [`Koikatu KoiCatalog_ᴠ1.1.2`](https://github.com/im-mi/KoiCatalog)
 
@@ -181,7 +181,7 @@
 
 [N]
 -- 
-- [`Koikatu Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
+- [`Koikatu Nodes_Constraints_ᴠ1.2.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 
 [O]
 --
@@ -190,7 +190,7 @@
 --
 - [`Koikatu POVX_ᴠ1.2.0`](https://github.com/FairBear/KK_PovX/releases)
 - [`Koikatu Pregnancy_Mod_ᴠ2.5.5`](https://www.patreon.com/posts/40713494)
-- [`Koikatu Pregnancy_Plus_ᴠ6.1`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Pregnancy_Plus_ᴠ6.2`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Pose_Folder_ᴠ1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Post_Processing_Effects_v3.7`](https://ux.getuploader.com/nHaruka_KK/)
 
@@ -223,7 +223,7 @@
 --
 - [`Koikatu TexResPatch`](http://www.mediafire.com/file/dkeus9sywipoiag/Koikatu_TexResPatch.rar/file)
 - [`Koikatu Push_Up_ᴠ1.3.2`](https://github.com/IllusionMods/KK_Plugins)
-- [`Koikatu Timeline_ᴠ1.1.0`](https://www.patreon.com/posts/37188531)
+- [`Koikatu Timeline_ᴠ1.1.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu TwoLut_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 
 [U]
@@ -232,7 +232,7 @@
 [V]
 --
 - [`Koikatu VMD_Play_ᴠ0.3.4`](https://mega.nz/file/MEoFnQKD#Lg8DFf7s96GwhnvYzkZsyzdIlxnJvN-FCQR3b8gMC-s)
-- [`Koikatu Video_Export_ᴠ1.2.1`](https://www.patreon.com/posts/40762879)
+- [`Koikatu Video_Export_ᴠ1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu VN_Game_Engine_ᴠ34.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Vanilla_Plus_Shaders_v1.02`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 
