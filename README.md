@@ -82,7 +82,7 @@
 [A]
 --
 - [`Koikatu ABMX_ᴠ4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
-- [`Koikatu Animation_Loader_v1.1.0.1`](https://github.com/IllusionMods/AnimationLoader)
+- [`Koikatu Animation_Loader_v1.1.0.3`](https://github.com/IllusionMods/AnimationLoader)
 - [`Koikatu Adv_IK_Plugin_ᴠ1.7.0`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`Koikatu AccStateSync_v4.5.1.2`](https://github.com/Madevil/KK_AccStateSync/releases)
 - [`Koikatu Accessory_Clothes_ᴠ1.0.1`](https://github.com/IllusionMods/KK_Plugins)
@@ -157,7 +157,7 @@
 - [`Koikatu KKUS_ᴠ1.11`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Keel_Plugins_ᴠ268`](https://github.com/Keelhauled/KeelPlugins#readme)
 - [`Koikatu KoiCatalog_ᴠ1.1.2`](https://github.com/im-mi/KoiCatalog)
-- [`Koikatu KPlug_Animations_v1.3.3`](https://github.com/IllusionMods/AnimationLoader)
+- [`Koikatu KPlug_Animations_v1.3.4`](https://github.com/IllusionMods/AnimationLoader)
 - [`Koikatu KPlug_Animation_Bundles_v2.9.0`](https://github.com/IllusionMods/AnimationLoader)
 
 [L]
@@ -236,7 +236,7 @@
 - [`Koikatu VMD_Play_ᴠ0.3.4`](https://mega.nz/file/MEoFnQKD#Lg8DFf7s96GwhnvYzkZsyzdIlxnJvN-FCQR3b8gMC-s)
 - [`Koikatu Video_Export_ᴠ1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu VN_Game_Engine_ᴠ34.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
-- [`Koikatu Vanilla_Plus_Shaders_v1.02`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
+- [`Koikatu Vanilla_Plus_Shaders_v1.1.5`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 
 
 
