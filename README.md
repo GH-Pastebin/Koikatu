@@ -136,7 +136,7 @@
 [H]
 --
 - [`Koikatu Head_Mod + Face_Fix`](http://www.mediafire.com/file/d1g4r74q9xjcwkc/Koikatu_Head_Mod_%252B_Face_Fix.zip/file)
-- [`Koikatu Hair_Accessory_Customizer_ᴠ1.1.6`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Hair_Accessory_Customizer_ᴠ1.1.7`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Hide_All_UI_ᴠ2.3.2`](https://github.com/IllusionMods/HideAllUI/releases)
 - [`Koikatu Height_Bar_ᴠ3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu H_Light_Control_ᴠ1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
@@ -168,14 +168,14 @@
 
 [M]
 --
-- [`Koikatu Material_Editor_ᴠ3.1.14`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Material_Editor_ᴠ3.1.16`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Modified_Head_Mod_v2.2`](https://mega.nz/folder/Bl4gEZbQ#_JenLFfcp-jvyPIu9Pjo7A)
 - [`Koikatu Move_Controller_v1.7.1.1`](https://github.com/Mantas-2155X/MikkePlugins)
 - [`Koikatu More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu MMDD_ᴠ2.3.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu More_Accessory_Parents_ᴠ2.0.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
-- [`Koikatu Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
+- [`Koikatu Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`Koikatu Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
 - [`Koikatu More_Outfits_v1.1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Maker_Tools_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
@@ -220,6 +220,7 @@
 - [`Koikatu Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sex_Faces_v1.1.1`](https://github.com/Sauceke/KK_SexFaces)
+- [`Koikatu Shader_Swapper_v1.0`](https://github.com/IllusionMods/KK_Plugins/)
 
 [T]
 --
