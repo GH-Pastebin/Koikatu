@@ -66,7 +66,7 @@
 - [`BepInEx_ᴠ5.4.19`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r16.9.2`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`BepInEx.Plugins_r17.0`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`BepInEx.IPALoaderX_ᴠ1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
@@ -127,6 +127,7 @@
 - [`Koikatu Feet_Control + Texture_Patch_ᴠ1.20`](https://github.com/mango123321a/KK_toesControl-solesTexture)
 - [`Koikatu FK_IK_ᴠ1.1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu FPS_Counter_ᴠ3.1`](https://github.com/ManlyMarco/FPSCounter/releases)
+- [`Koikatu Fade_Adjuster_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
 
 [G]
 --
@@ -195,6 +196,8 @@
 - [`Koikatu Pregnancy_Plus_ᴠ6.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Pose_Folder_ᴠ1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Post_Processing_Effects_v3.7`](https://ux.getuploader.com/nHaruka_KK/)
+- [`Koikatu Pose_Tools_v1.1`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Pose_Quick_Load_v1.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 
 [Q]
 --
