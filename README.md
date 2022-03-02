@@ -128,6 +128,7 @@
 - [`Koikatu FK_IK_ᴠ1.1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu FPS_Counter_ᴠ3.1`](https://github.com/ManlyMarco/FPSCounter/releases)
 - [`Koikatu Fade_Adjuster_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu FK_Height_Adjust_UI_v1.0.3`](https://github.com/OrangeSpork/FKHeightAdjustUI/releases)
 
 [G]
 --
@@ -142,6 +143,8 @@
 - [`Koikatu Height_Bar_ᴠ3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu H_Light_Control_ᴠ1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
 - [`Koikatu H_Scene_Options_ᴠ3.2.1`](https://github.com/MayouKurayami/KK_HSceneOptions#configurations)
+- [`Koikatu HS_Plugins_2022.03.01`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2.1)
+
 
 [I]
 --
@@ -156,7 +159,7 @@
 --
 - [`Koikatu KKPE_ᴠ2.13.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu KKUS_ᴠ1.11`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
-- [`Koikatu Keel_Plugins_ᴠ268`](https://github.com/Keelhauled/KeelPlugins#readme)
+- [`Koikatu Keel_Plugins_v2022.03.01`](https://github.com/Keelhauled/KeelPlugins#readme)
 - [`Koikatu KoiCatalog_ᴠ1.1.2`](https://github.com/im-mi/KoiCatalog)
 - [`Koikatu KPlug_Animations_v1.3.5`](https://github.com/IllusionMods/AnimationLoader)
 - [`Koikatu KPlug_Animation_Bundles_v2.9.0`](https://github.com/IllusionMods/AnimationLoader)
