@@ -74,7 +74,7 @@
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`Koikatu API_ᴠ1.31.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`Koikatu API_ᴠ1.32`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`Koikatu Illusion_Fixes_ᴠ19.3`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
@@ -101,6 +101,7 @@
 - [`Koikatu Browser_Folders_ᴠ2.6.2`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Butt_Plugin_v2.0.2`](https://github.com/Sauceke/KK_ButtPlugin)
 - [`Koikatu Better_Color_Picker_v2.0.3`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
+- [`Koikatu Boop_v2.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 
 [C]
 --
@@ -111,6 +112,7 @@
 - [`Koikatu Colthing_Uncloker_ᴠ2.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Cross_Fader_ᴠ0.11`](https://github.com/MayouKurayami/KK_CrossFader#crossfader)
 - [`Koikatu Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
+- [`Koikatu Clothes_To_Accessories_v1.0.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 
 [D]
 --
@@ -122,7 +124,7 @@
 - [`Koikatu Expression_Control_ᴠ0.2.3`](https://ux.getuploader.com/56e4_xXVv/download/93)
 - [`Koikatu EyeTexOverlay_ᴠ0.2.0`](http://www.mediafire.com/file/f9u3vcl8v4dref2/Koikatu_EyeTexOverlay_v0.2.0.rar/file)
 - [`Koikatu Expand_Male_Maker_ᴠ1.2`](https://github.com/Kokaiinum/KK_ExpandMaleMaker/releases)
-- [`Koikatu Eye_Shaking_v1.3`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Eye_Shaking_v1.3.1`](https://github.com/IllusionMods/KK_Plugins)
 
 [F]
 --
@@ -131,6 +133,7 @@
 - [`Koikatu FPS_Counter_ᴠ3.1`](https://github.com/ManlyMarco/FPSCounter/releases)
 - [`Koikatu Fade_Adjuster_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu FK_Height_Adjust_UI_v1.0.3`](https://github.com/OrangeSpork/FKHeightAdjustUI/releases)
+- [`Koikatu Force_High_Poly_v2.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 
 [G]
 --
@@ -174,7 +177,7 @@
 
 [M]
 --
-- [`Koikatu Material_Editor_ᴠ3.1.16`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Material_Editor_ᴠ3.1.17`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Modified_Head_Mod_v2.2`](https://mega.nz/folder/Bl4gEZbQ#_JenLFfcp-jvyPIu9Pjo7A)
 - [`Koikatu Move_Controller_v1.7.1.1`](https://github.com/Mantas-2155X/MikkePlugins)
 - [`Koikatu More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
@@ -224,7 +227,7 @@
 - [`Koikatu Sabakan_Plugins_v1107`](https://cdn.discordapp.com/attachments/447115303449657354/906846019520692224/Sabakan_Plugins_1107.zip)
 - [`Koikatu Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Skin_Ass_Effects_v1.0`](https://mega.nz/folder/g6hCyDCa#w250IZhZGfWr-cD4iRf_ew)
-- [`Koikatu Subtitles_v2.3.1`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Subtitles_v2.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sex_Faces_v1.1.1`](https://github.com/Sauceke/KK_SexFaces)
