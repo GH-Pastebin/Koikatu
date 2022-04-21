@@ -84,7 +84,7 @@
 [A]
 --
 - [`Koikatu ABMX_ᴠ4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
-- [`Koikatu Animation_Loader_v1.1.1.1`](https://github.com/IllusionMods/AnimationLoader)
+- [`Koikatu Animation_Loader_v1.1.1.3`](https://github.com/IllusionMods/AnimationLoader)
 - [`Koikatu Adv_IK_Plugin_ᴠ1.7.0`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`Koikatu AccStateSync_v4.5.1.2`](https://github.com/Madevil/KK_AccStateSync/releases)
 - [`Koikatu Accessory_Clothes_ᴠ1.0.1`](https://github.com/IllusionMods/KK_Plugins)
