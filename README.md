@@ -75,7 +75,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu API_ᴠ1.32`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
-- [`Koikatu Illusion_Fixes_ᴠ19.3`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Illusion_Fixes_ᴠ20.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
 **[Utility Mod Plugins]**
@@ -148,7 +148,7 @@
 - [`Koikatu Height_Bar_ᴠ3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu H_Light_Control_ᴠ1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
 - [`Koikatu H_Scene_Options_ᴠ3.2.1`](https://github.com/MayouKurayami/KK_HSceneOptions#configurations)
-- [`Koikatu HS_Plugins_2022.03.01`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2.1)
+- [`Koikatu HS_Plugins_v2022.06.05`](https://github.com/IllusionMods/HSPlugins/releases/)
 
 
 [I]
