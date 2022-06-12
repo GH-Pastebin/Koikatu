@@ -97,7 +97,7 @@
 
 [B]
 --
-- [`Koikatu Better_Penetration_v4.5.2`](https://github.com/Animal42069/BetterPenetration)
+- [`Koikatu Better_Penetration_v4.5.5`](https://github.com/Animal42069/BetterPenetration)
 - [`Koikatu Browser_Folders_ᴠ2.6.2`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Butt_Plugin_v2.0.2`](https://github.com/Sauceke/KK_ButtPlugin)
 - [`Koikatu Better_Color_Picker_v2.0.3`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
