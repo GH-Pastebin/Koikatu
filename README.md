@@ -166,7 +166,7 @@
 - [`Koikatu KKUS_ᴠ1.11`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Keel_Plugins_v2022.05.28`](https://github.com/Keelhauled/KeelPlugins#readme)
 - [`Koikatu KoiCatalog_ᴠ1.1.2`](https://github.com/im-mi/KoiCatalog)
-- [`Koikatu KPlug_Animations_v1.3.5`](https://github.com/IllusionMods/AnimationLoader)
+- [`Koikatu KPlug_Animations_v1.4.1.2`](https://github.com/IllusionMods/AnimationLoader)
 - [`Koikatu KPlug_Animation_Bundles_v2.9.0`](https://github.com/IllusionMods/AnimationLoader)
 
 [L]
