@@ -69,7 +69,7 @@
 - [`BepInEx_IL2CPP_v6.0.0_BE_571`](https://builds.bepinex.dev/)
 - [`BepInEx.Configuration_Manager_ᴠ17.0`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r18.0.1`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`BepInEx.Plugins_r18.0.2`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`BepInEx.IPALoaderX_ᴠ1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0/IL2CP`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
