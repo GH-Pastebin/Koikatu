@@ -55,6 +55,7 @@
 - [`Koikatu English_Launcher_ᴠ3.3.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`Koikatu Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 - [`XUnity.AutoTranslator-BepIn-5x-5.1.0/IL2CP`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`Koikatu Sunshine Text_Resource_Redirector_v1.4.4.3`](https://github.com/IllusionMods/TranslationTools)
 - [`Koikatu Translation_Release_v2022-04-15`](https://github.com/IllusionMods/KoikatsuTranslation/releases/tag/v7)
 
 ---
