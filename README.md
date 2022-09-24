@@ -67,17 +67,17 @@
 **[Recommended Mod Plugins]**
 --
 - [`BepInEx_ᴠ5.4.19`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx_IL2CPP_v6.0.0_BE_571`](https://builds.bepinex.dev/)
-- [`BepInEx.Configuration_Manager_ᴠ17.0`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
+- [`BepInEx_IL2CPP_v6.0.0_BE_656`](https://builds.bepinex.dev/)
+- [`BepInEx.Configuration_Manager_ᴠ17.1`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r18.0.2`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`BepInEx.Plugins_r18.2`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`BepInEx.IPALoaderX_ᴠ1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0/IL2CP`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
-- [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
+- [`Runtime_Unity_Editor_BepInEx5_v3.0.0`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu API_ᴠ1.33`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
-- [`Koikatu Illusion_Fixes_ᴠ20.0`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Illusion_Fixes_ᴠ20.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
 **[Utility Mod Plugins]**
@@ -173,7 +173,7 @@
 
 [L]
 --
-- [`Koikatu Lewd_Crest_X_v1.3.2`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
+- [`Koikatu Lewd_Crest_X_v1.4`](https://www.patreon.com/posts/47399394)
 - [`Koikatu List_Override_v1.0`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu Lighting_Tweaks_v1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 
@@ -202,7 +202,7 @@
 [P]
 --
 - [`Koikatu POVX_ᴠ1.2.0`](https://github.com/FairBear/KK_PovX/releases)
-- [`Koikatu Pregnancy_Mod_ᴠ2.5.5`](https://www.patreon.com/posts/40713494)
+- [`Koikatu Pregnancy_Mod_ᴠ2.7`](https://www.patreon.com/posts/62734217)
 - [`Koikatu Pregnancy_Plus_ᴠ6.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Pose_Folder_ᴠ1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Post_Processing_Effects_v3.7`](https://ux.getuploader.com/nHaruka_KK/)
