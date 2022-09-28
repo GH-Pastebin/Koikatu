@@ -150,7 +150,7 @@
 - [`Koikatu Height_Bar_ᴠ3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu H_Light_Control_ᴠ1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
 - [`Koikatu H_Scene_Options_ᴠ3.2.1`](https://github.com/MayouKurayami/KK_HSceneOptions#configurations)
-- [`Koikatu HS_Plugins_v2022.06.05`](https://github.com/IllusionMods/HSPlugins/releases/)
+- [`Koikatu HS_Plugins_v2022.09.26`](https://github.com/IllusionMods/HSPlugins/releases/)
 
 
 [I]
@@ -222,7 +222,7 @@
 [S]
 --
 - [`Koikatu ShortCutsKoi_ᴠ1.9`](https://ux.getuploader.com/moistened_eye/download/102)
-- [`Koikatu Skin_Effects_ᴠ2.0.1`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
+- [`Koikatu Skin_Effects_ᴠ2.1.1`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
 - [`Koikatu Stilleto_v1.2a3`](http://www.mediafire.com/file/ryrdbaaz1inremd/Koikatu_Stilleto_v1.2a3.rar/file)
 - [`Koikatu Specter_ᴠ0.13`](https://ux.getuploader.com/moistened_eye/download/131)
 - [`Koikatu Studio_Scene_Settings_ᴠ1.3`](https://github.com/IllusionMods/KK_Plugins)
@@ -249,7 +249,7 @@
 --
 - [`Koikatu VMD_Play_ᴠ0.3.4`](https://mega.nz/file/MEoFnQKD#Lg8DFf7s96GwhnvYzkZsyzdIlxnJvN-FCQR3b8gMC-s)
 - [`Koikatu Video_Export_ᴠ1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
-- [`Koikatu VN_Game_Engine_ᴠ38.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu VN_Game_Engine_ᴠ39.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Vanilla_Plus_Shaders_v1.1.5`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 
 
