@@ -51,7 +51,6 @@
 ---
 **[English Translation]**
 --
-- [`Koikatu Better_English_Machine_Translation_ᴠ5.0`](https://www.patreon.com/posts/45341283)
 - [`Koikatu English_Launcher_ᴠ3.3.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`Koikatu Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 - [`XUnity.AutoTranslator-BepIn-5x-5.1.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
