@@ -153,7 +153,7 @@
 
 [I]
 --
-- [`Koikatu Illusion_Overlay_Mods_ᴠ6.0.7`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`Koikatu Illusion_Overlay_Mods_ᴠ6.1.0`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Invisible_Body_ᴠ1.4`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`Koikatu Image_Series_Recoder_ᴠ1.0`](https://www.patreon.com/posts/22927657)
 
