@@ -68,7 +68,7 @@
 - [`BepInEx_ᴠ5.4.21`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_ᴠ17.1`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r18.2`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`BepInEx.Plugins_r19.0.1`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`BepInEx.IPALoaderX_ᴠ1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
