@@ -231,7 +231,7 @@
 - [`Koikatu Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sex_Faces_v1.1.1`](https://github.com/Sauceke/KK_SexFaces)
-- [`Koikatu Shader_Swapper_v1.1`](https://github.com/IllusionMods/KK_Plugins/)
+- [`Koikatu Shader_Swapper_v1.3`](https://github.com/IllusionMods/KK_Plugins/)
 
 [T]
 --
