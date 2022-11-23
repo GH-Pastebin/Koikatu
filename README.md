@@ -83,7 +83,7 @@
 
 [A]
 --
-- [`Koikatu ABMX_ᴠ5.0.0`](https://github.com/ManlyMarco/ABMX/releases)
+- [`Koikatu ABMX_ᴠ5.0.1`](https://github.com/ManlyMarco/ABMX/releases)
 - [`Koikatu Animation_Loader_v1.1.2.2`](https://github.com/IllusionMods/AnimationLoader)
 - [`Koikatu Adv_IK_Plugin_ᴠ1.7.0`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`Koikatu AccStateSync_v4.5.1.2`](https://github.com/Madevil/KK_AccStateSync/releases)
@@ -177,7 +177,7 @@
 
 [M]
 --
-- [`Koikatu Material_Editor_ᴠ3.1.20`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Material_Editor_ᴠ3.1.21`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Modified_Head_Mod_v2.2`](https://mega.nz/folder/Bl4gEZbQ#_JenLFfcp-jvyPIu9Pjo7A)
 - [`Koikatu Move_Controller_v1.7.1.1`](https://github.com/Mantas-2155X/MikkePlugins)
 - [`Koikatu More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
