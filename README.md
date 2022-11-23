@@ -40,7 +40,7 @@
 ---
 **[Female & Male Uncensor Mod]**
 --
-- [`Koikatu Uncensor_Selector_ᴠ3.11.5`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Uncensor_Selector_ᴠ3.11.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Uncensor_Selector_Package_ᴠ0.7`](http://www.mediafire.com/file/t9i40hsxa52sw0k/Koikatu_Female_SAC_Uncensor_Selector_Package_v0.7.zip/file) 
 
 ---
@@ -116,7 +116,7 @@
 
 [D]
 --
-- [`Koikatu Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Dynamic_Bone_Editor_v1.0.5`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Drag_And_Drop_v1.2.7`](https://github.com/IllusionMods/DragAndDrop)
 
 [E]
@@ -177,7 +177,7 @@
 
 [M]
 --
-- [`Koikatu Material_Editor_ᴠ3.1.19`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Material_Editor_ᴠ3.1.20`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Modified_Head_Mod_v2.2`](https://mega.nz/folder/Bl4gEZbQ#_JenLFfcp-jvyPIu9Pjo7A)
 - [`Koikatu Move_Controller_v1.7.1.1`](https://github.com/Mantas-2155X/MikkePlugins)
 - [`Koikatu More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
@@ -247,7 +247,7 @@
 --
 - [`Koikatu VMD_Play_ᴠ0.3.4`](https://mega.nz/file/MEoFnQKD#Lg8DFf7s96GwhnvYzkZsyzdIlxnJvN-FCQR3b8gMC-s)
 - [`Koikatu Video_Export_ᴠ1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
-- [`Koikatu VN_Game_Engine_ᴠ39.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu VN_Game_Engine_ᴠ40.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Vanilla_Plus_Shaders_v1.1.5`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 
 
