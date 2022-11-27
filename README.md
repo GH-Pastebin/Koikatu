@@ -74,7 +74,7 @@
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v4.0.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`Koikatu API_ᴠ1.33`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`Koikatu API_ᴠ1.35`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`Koikatu Illusion_Fixes_ᴠ20.2`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
@@ -225,7 +225,7 @@
 - [`Koikatu Specter_ᴠ0.13`](https://ux.getuploader.com/moistened_eye/download/131)
 - [`Koikatu Studio_Scene_Settings_ᴠ1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sabakan_Plugins_v1107`](https://cdn.discordapp.com/attachments/447115303449657354/906846019520692224/Sabakan_Plugins_1107.zip)
-- [`Koikatu Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
+- [`Koikatu Slider_Highlight_v2.2.0`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Skin_Ass_Effects_v1.0`](https://mega.nz/folder/g6hCyDCa#w250IZhZGfWr-cD4iRf_ew)
 - [`Koikatu Subtitles_v2.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
