@@ -181,7 +181,7 @@
 - [`Koikatu Modified_Head_Mod_v2.2`](https://mega.nz/folder/Bl4gEZbQ#_JenLFfcp-jvyPIu9Pjo7A)
 - [`Koikatu Move_Controller_v1.7.1.1`](https://github.com/Mantas-2155X/MikkePlugins)
 - [`Koikatu More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
-- [`Koikatu MMDD_ᴠ2.4`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
+- [`Koikatu MMDD_ᴠ2.6.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu More_Accessory_Parents_ᴠ2.0.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`Koikatu Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
@@ -247,7 +247,7 @@
 --
 - [`Koikatu VMD_Play_ᴠ0.3.4`](https://mega.nz/file/MEoFnQKD#Lg8DFf7s96GwhnvYzkZsyzdIlxnJvN-FCQR3b8gMC-s)
 - [`Koikatu Video_Export_ᴠ1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
-- [`Koikatu VN_Game_Engine_ᴠ40.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu VN_Game_Engine_ᴠ41.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Vanilla_Plus_Shaders_v1.1.5`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 
 
