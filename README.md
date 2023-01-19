@@ -51,9 +51,9 @@
 ---
 **[English Translation]**
 --
-- [`Koikatu English_Launcher_ᴠ3.3.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
+- [`Koikatu English_Launcher_ᴠ3.3.2`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`Koikatu Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
-- [`XUnity.AutoTranslator-BepIn-5x-5.1.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-5.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Sunshine Text_Resource_Redirector_v1.4.4.3`](https://github.com/IllusionMods/TranslationTools)
 - [`Koikatu Translation_Release_v8_2022-09-27`](https://github.com/IllusionMods/KoikatsuTranslation/releases/tag/v8)
 
@@ -72,10 +72,10 @@
 - [`BepInEx.IPALoaderX_ᴠ1.2.4`](https://github.com/BepInEx/IPALoaderX/releases)
 - [`BepInEx.BepInEx4Upgrader_v1.0.0.0`](https://github.com/BepInEx/BepInEx.BepInEx4Upgrader/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
-- [`Runtime_Unity_Editor_BepInEx5_v4.0.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
-- [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
+- [`Runtime_Unity_Editor_BepInEx5_v4.1.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
+- [`Manager_ᴠ0.20.2`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu API_ᴠ1.35`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
-- [`Koikatu Illusion_Fixes_ᴠ20.2`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Illusion_Fixes_ᴠ20.2a`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
 **[Utility Mod Plugins]**
