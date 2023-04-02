@@ -148,7 +148,7 @@
 - [`Koikatu Height_Bar_ᴠ3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu H_Light_Control_ᴠ1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
 - [`Koikatu H_Scene_Options_ᴠ3.2.1`](https://github.com/MayouKurayami/KK_HSceneOptions#configurations)
-- [`Koikatu HS_Plugins_v2022.11.23`](https://github.com/IllusionMods/HSPlugins/releases)
+- [`Koikatu HS_Plugins_v2023.03.14`](https://github.com/IllusionMods/HSPlugins/releases)
 
 
 [I]
