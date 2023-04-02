@@ -40,7 +40,7 @@
 ---
 **[Female & Male Uncensor Mod]**
 --
-- [`Koikatu Uncensor_Selector_ᴠ3.11.6`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Uncensor_Selector_ᴠ3.11.7`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Uncensor_Selector_Package_ᴠ0.7`](http://www.mediafire.com/file/t9i40hsxa52sw0k/Koikatu_Female_SAC_Uncensor_Selector_Package_v0.7.zip/file) 
 
 ---
@@ -75,7 +75,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v4.1.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.20.2`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu API_ᴠ1.35`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
-- [`Koikatu Illusion_Fixes_ᴠ20.2a`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Illusion_Fixes_ᴠ21.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
 **[Utility Mod Plugins]**
@@ -98,14 +98,14 @@
 [B]
 --
 - [`Koikatu Better_Penetration_v4.5.5`](https://github.com/Animal42069/BetterPenetration)
-- [`Koikatu Browser_Folders_ᴠ2.6.2`](https://www.patreon.com/posts/40644638)
+- [`Koikatu Browser_Folders_ᴠ3.0.0`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Butt_Plugin_v2.0.2`](https://github.com/Sauceke/KK_ButtPlugin)
 - [`Koikatu Better_Color_Picker_v2.0.3`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
 - [`Koikatu Boop_v2.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 
 [C]
 --
-- [`Koikatu Collider_ᴠ1.2`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
+- [`Koikatu Collider_ᴠ1.3`](https://github.com/DeathWeasel1337/KK_Plugins#readme)
 - [`Koikatu Clothing_State_Menu_ᴠ3.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
 - [`Koikatu Cheat_Tools_ᴠ3.2.0`](https://www.patreon.com/posts/37889909)
 - [`Koikatu Character_Replacer_ᴠ1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
@@ -164,7 +164,7 @@
 --
 - [`Koikatu KKPE_ᴠ2.13.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu KKUS_ᴠ1.11`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
-- [`Koikatu Keel_Plugins_v2022.11.09`](https://github.com/Keelhauled/KeelPlugins#readme)
+- [`Koikatu Keel_Plugins_v2023.03.16`](https://github.com/Keelhauled/KeelPlugins#readme)
 - [`Koikatu KoiCatalog_ᴠ1.1.2`](https://github.com/im-mi/KoiCatalog)
 - [`Koikatu KPlug_Animations_v1.4.1.2`](https://github.com/IllusionMods/AnimationLoader)
 - [`Koikatu KPlug_Animation_Bundles_v3.0.1`](https://github.com/IllusionMods/AnimationLoader)
@@ -200,7 +200,7 @@
 [P]
 --
 - [`Koikatu POVX_ᴠ1.2.0`](https://github.com/FairBear/KK_PovX/releases)
-- [`Koikatu Pregnancy_Mod_ᴠ2.7`](https://www.patreon.com/posts/62734217)
+- [`Koikatu Pregnancy_Mod_ᴠ2.7.1`](https://www.patreon.com/posts/62734217)
 - [`Koikatu Pregnancy_Plus_ᴠ6.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Pose_Folder_ᴠ1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Post_Processing_Effects_v3.7`](https://ux.getuploader.com/nHaruka_KK/)
